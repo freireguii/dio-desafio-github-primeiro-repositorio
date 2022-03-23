@@ -43,3 +43,10 @@ vi) pegar essa chave e colocar no GITHUB
 vii) após pegar a chave e colocar no GITHUB é necessário ativar o agente que irá gerir as chaves; eval $ (ssh-agent -s)
 
 viii) após ser gerado esse agente é necessário passar o a chave para ele, através do caminho onde está a chave privada; ssh-add______caminho da chave privada
+
+## II)
+
+### Links Úteis:
+
+[Sintaxe Básica MarkDown](https://markdown.net.br/sintaxe-basica/)
+
