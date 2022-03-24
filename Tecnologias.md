@@ -1,4 +1,4 @@
-# Tecnologias que quero aprender/Aperfeiçoar meus conhecimentos
+# Tecnologias que quero aprender/aperfeiçoar meus conhecimentos
 
 ## Linguagens:
 
